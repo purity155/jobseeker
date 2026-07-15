@@ -264,3 +264,48 @@ nav ul{
 
 }
 ```
+hr{
+
+margin:20px 0;
+
+border:1px solid #ddd;
+
+}
+
+.register-box h3{
+
+color:#0d47a1;
+
+margin-bottom:15px;
+
+font-size:24px;
+
+}
+
+.hero-btn{
+
+display:inline-block;
+
+background:#0d47a1;
+
+color:white;
+
+padding:14px 25px;
+
+text-decoration:none;
+
+border-radius:8px;
+
+font-weight:bold;
+
+transition:.3s;
+
+text-align:center;
+
+}
+
+.hero-btn:hover{
+
+background:#1565c0;
+
+}
